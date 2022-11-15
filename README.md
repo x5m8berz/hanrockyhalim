@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hanrockyhalim
+- 👋 Hi, I’m Hanrocky Halim
 - 👀 I’m interested in webdev
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on MERN project
