@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm Hanrocky Halim</h1>
-<h3 align="center">A College Student at Telkom University</h3>
-
 <div align="center" >
  
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Mostafa+Fazli;MosFazli;a+Software+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Hanrocky+Halim;A+Software+Developer)](https://git.io/typing-svg)
  
  </div>
 
+<h1 align="center">Hi 👋, I'm Hanrocky Halim</h1>
+<h3 align="center">A College Student at Telkom University</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanrockyhalim" alt="hanrocky halim" /></a> </p>
 
