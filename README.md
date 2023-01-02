@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hanrocky.halim@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/hanrocky-halim-b475b522a/ </h3>
 <p align="left">
 </p>
 
