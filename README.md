@@ -29,7 +29,6 @@
   </a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=gradient"/>
 
 <details close="true">
   <summary><b>:gear: &nbsp;Git Statistics</b></summary>  
@@ -37,6 +36,8 @@
  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hanrockyhalim&show_icons=true&locale=en" alt="hanrockyhalim" /></p>
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanrockyhalim&" alt="hanrockyhalim" /></p>
 </details>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=gradient"/>
 
 <!---
 hanrockyhalim/hanrockyhalim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
