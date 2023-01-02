@@ -2,7 +2,7 @@
  
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=700&color=F7F7F7FF&vCenter=true&width=600&height=70&lines=Hi+👋+I'm+Hanrocky+Halim;A+College+Student+at+Telkom+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=700&color=A3A3A3FF&vCenter=true&width=600&height=70&lines=Hi+👋+I'm+Hanrocky+Halim;A+College+Student+at+Telkom+University)](https://git.io/typing-svg)
  
  </div>
 
@@ -43,10 +43,22 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/> </a>
 </p>
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,androidstudio,arduino,bash,linux" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite,c,cpp,java,github,wordpress,ae,ps,pr" />
+  </a>
+</p>
+
+
        
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanrockyhalim&show_icons=true&locale=en&layout=compact" alt="hanrockyhalim" /></p>
-<div>
-</div>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanrockyhalim&show_icons=true&locale=en" alt="hanrockyhalim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanrockyhalim&" alt="hanrockyhalim" /></p>
