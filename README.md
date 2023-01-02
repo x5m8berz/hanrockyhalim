@@ -7,6 +7,7 @@
  </div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanrockyhalim" alt="hanrocky halim" /></a> </p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanrockyhalim&" alt="hanrockyhalim" /></p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -34,7 +35,6 @@
   <summary><b>:gear: &nbsp;Git Statistics</b></summary>  
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanrockyhalim&show_icons=true&locale=en&layout=compact" alt="hanrockyhalim" /></p>
  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hanrockyhalim&show_icons=true&locale=en" alt="hanrockyhalim" /></p>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanrockyhalim&" alt="hanrockyhalim" /></p>
 </details>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=gradient"/>
