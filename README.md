@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Hanrocky Halim</h1>
 <h3 align="center">A College Student at Telkom University</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanrockyhalim" alt="hanrocky halim" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanrockyhalim" alt="hanrocky halim" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
