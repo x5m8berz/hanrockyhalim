@@ -11,6 +11,8 @@
 <p align="left">
 </p>
 
+<link rel="stylesheet" href="devicon.min.css">
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
@@ -35,7 +37,8 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
+<i class="devicon-express-original-wordmark"></i>
+       
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanrockyhalim&show_icons=true&locale=en&layout=compact" alt="hanrockyhalim" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanrockyhalim&show_icons=true&locale=en" alt="hanrockyhalim" /></p>
