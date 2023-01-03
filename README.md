@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img align='right' height='160' style="margin-right:20px" src='https://user-images.githubusercontent.com/100605170/210373847-e3d131cc-f4a4-475b-875f-966bb900001a.png' alt='Social Network'>
+<img align='right' height='160' style="margin-right:20px" src='https://user-images.githubusercontent.com/100605170/210373847-e3d131cc-f4a4-475b-875f-966bb900001a.gif' alt='Social Network'>
 
 <p align="left">
 </p>
