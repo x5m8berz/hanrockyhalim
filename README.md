@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **hanrocky.halim@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-
 <img src="1.gif" align="right" height="200" style="margin-right:20px" >
+
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
 </p>
