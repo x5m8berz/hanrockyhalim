@@ -46,10 +46,12 @@
 
 <details close="true">
   <summary><b>:gear: &nbsp;Git Statistics</b></summary>  
- <p> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanrockyhalim&hide=html&layout=compact&theme=dark" alt="hanrockyhalim" /></p>
- <p> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=hanrockyhalim&show_icons=true&theme=dark" /></p>
- <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanrockyhalim&theme=dark" alt="hanrockyhalim" /> </p>
+ <p> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanrockyhalim&hide=html&layout=compact&theme=transparent" alt="hanrockyhalim" /></p>
+ <p> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=hanrockyhalim&show_icons=true&theme=transparent" /></p>
+ <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanrockyhalim&theme=highcontrast" alt="hanrockyhalim" /> </p>
 </details> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <!---
 hanrockyhalim/hanrockyhalim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
