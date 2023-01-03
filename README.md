@@ -21,12 +21,12 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,redux,bootstrap,tailwind,express,nextjs,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,redux,bootstrap,tailwind,express,mysql,mongodb" />
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,tensorflow,dart,flutter,cpp,git,vscode,github,wordpress,ps,figma" />
+    <img src="https://skillicons.dev/icons?i=python,django,tensorflow,dart,flutter,cpp,git,vscode,github,ps,figma" />
   </a>
 </p>
 
