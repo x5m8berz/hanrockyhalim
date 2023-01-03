@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 
 ![image](https://user-images.githubusercontent.com/100605170/210373847-e3d131cc-f4a4-475b-875f-966bb900001a.png)
+<img align='left' height='160' style="margin-left:20px" src='https://user-images.githubusercontent.com/100605170/210373847-e3d131cc-f4a4-475b-875f-966bb900001a.png' alt='Skills'>
 
 <p align="left">
 </p>
