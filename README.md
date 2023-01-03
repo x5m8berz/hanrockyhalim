@@ -40,6 +40,9 @@
  <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanrockyhalim&" alt="hanrockyhalim" /> </p>
 </details>
 
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=hanrockyhalim&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanrockyhalim&hide=html&layout=compact&theme=highcontrast" />
+
 <!---
 hanrockyhalim/hanrockyhalim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
