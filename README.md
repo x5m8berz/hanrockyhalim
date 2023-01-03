@@ -6,7 +6,7 @@
  
  </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanrockyhalim" alt="hanrocky halim" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanrockyhalim" alt="hanrocky halim" /></a> </p>
 
 
 <img src="1.gif" align="right" height="160" style="margin-right:20px" >
@@ -21,8 +21,13 @@
   <a href="https://www.linkedin.com/in/hanrocky-halim-b475b522a">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+   <a href="https://www.instagram.com/hanrocky_halim">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+   <a href="https://twitter.com/hanrocky02">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
 </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 
