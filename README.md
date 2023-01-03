@@ -15,7 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img align='right' height='160' style="margin-right:20px" src='https://user-images.githubusercontent.com/100605170/210373847-e3d131cc-f4a4-475b-875f-966bb900001a.gif' alt='Social Network'>
+<img align='right' height='160' style="margin-right:20px" src='https://ibb.co/Nt71jy0' alt='Social Network'>
+
 
 <p align="left">
 </p>
@@ -48,4 +49,5 @@
 <!---
 hanrockyhalim/hanrockyhalim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+https://user-images.githubusercontent.com/100605170/210373847-e3d131cc-f4a4-475b-875f-966bb900001a.png
 --->
