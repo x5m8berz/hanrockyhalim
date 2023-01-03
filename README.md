@@ -47,10 +47,11 @@
 <details close="true">
   <summary><b>:gear: &nbsp;Git Statistics</b></summary>  
  <div align="center">
- <p> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanrockyhalim&hide=html&layout=compact&theme=highcontrast" alt="hanrockyhalim" /></p>
- <p> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=hanrockyhalim&show_icons=true&theme=highcontrast" /></p>
+ <p> <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanrockyhalim&hide=html&layout=compact&theme=highcontrast" alt="hanrockyhalim" /></p>
+ <p> <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api?username=hanrockyhalim&show_icons=true&theme=highcontrast" /></p>
+   <div>
  <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hanrockyhalim&theme=highcontrast" alt="hanrockyhalim" /> </p>
-  <div>
+ 
 </details> 
 
 
