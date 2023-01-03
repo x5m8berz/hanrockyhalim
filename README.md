@@ -49,9 +49,9 @@
  <div align="center">
  <img style="margin-left:20px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanrockyhalim&hide=html&layout=compact&theme=highcontrast" alt="hanrockyhalim" />
  <img style="margin-right:20px" height="150px" src="https://github-readme-stats.vercel.app/api?username=hanrockyhalim&show_icons=true&theme=highcontrast" />
-   </div>
- <img  style="margin-top:100px" src="https://github-readme-streak-stats.herokuapp.com?user=hanrockyhalim&theme=highcontrast" alt="hanrockyhalim" />
 
+ <img  style="margin-top:100px" src="https://github-readme-streak-stats.herokuapp.com?user=hanrockyhalim&theme=highcontrast" alt="hanrockyhalim" />
+   </div>
 </details> 
 
 
