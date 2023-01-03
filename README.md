@@ -15,8 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img align='right' height='160' style="margin-right:20px" src='https://ibb.co/Nt71jy0' alt='Social Network'>
-
+<img src="https://i.ibb.co/fqQ8px3/zeig-infotech-seo-gif.gif" alt="zeig-infotech-seo-gif" align="right" height="200" style="margin-right:20px" >
 
 <p align="left">
 </p>
