@@ -15,10 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76119951ce7ba75ca633bc89cae7be43555cc598d461&rid=giphy.gif&ct=g">
-
-
 <p align="left">
 </p>
 
