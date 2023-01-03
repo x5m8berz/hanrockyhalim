@@ -28,7 +28,7 @@
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
     <a href="" alt="hanrocky halim">
-    <img src="https://skillicons.dev/icons?i=telegram" />
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
 
