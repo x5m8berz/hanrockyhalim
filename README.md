@@ -6,7 +6,7 @@
  
  </div>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=hanrockyhalim&theme=darkhub&row=1&column=5" alt="hanrocky halim" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=hanrockyhalim&theme=gitdimmed&row=1&column=6" alt="hanrocky halim" /></a> </p>
 
 
 <img src="1.gif" align="right" height="160" style="margin-right:20px" >
