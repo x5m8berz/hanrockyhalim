@@ -8,6 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanrockyhalim" alt="hanrocky halim" /></a> </p>
 
+
+<img src="1.gif" align="right" height="160" style="margin-right:20px" >
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **hanrocky.halim@gmail.com**
@@ -15,12 +18,11 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="[https://skillicons.dev](https://www.linkedin.com/in/hanrocky-halim-b475b522a/)">
+  <a href="https://www.linkedin.com/in/hanrocky-halim-b475b522a">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
-<img src="1.gif" align="right" height="160" style="margin-right:20px" >
 
 <h3 align="left">Languages and Tools:</h3>
 
