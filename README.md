@@ -14,19 +14,22 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img src="1.gif" align="right" height="160" style="margin-right:20px" >
-
 <p align="left">
+  <a href="[https://skillicons.dev](https://www.linkedin.com/in/hanrocky-halim-b475b522a/)">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
+
+<img src="1.gif" align="right" height="160" style="margin-right:20px" >
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,redux,bootstrap,tailwind,express,mysql,mongodb" />
   </a>
 </p>
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,tensorflow,dart,flutter,cpp,git,vscode,github,ps,figma" />
   </a>
