@@ -27,6 +27,9 @@
    <a href="" alt="hanrocky halim">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
+    <a href="" alt="hanrocky halim">
+    <img src="https://skillicons.dev/icons?i=telegram" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
