@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img src="2.gif" alt="zeig-infotech-seo-gif" align="right" height="200" style="margin-right:20px" >
+<img src="1.gif" align="right" height="200" style="margin-right:20px" >
 
 <p align="left">
 </p>
