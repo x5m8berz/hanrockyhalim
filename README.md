@@ -51,7 +51,7 @@
  <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hanrockyhalim&theme=highcontrast" alt="hanrockyhalim" /> </p>
 </details> 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hanrockyhalim&theme=highcontrast)](https://git.io/streak-stats)
+
 
 <!---
 hanrockyhalim/hanrockyhalim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
