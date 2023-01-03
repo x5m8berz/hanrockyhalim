@@ -8,14 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanrockyhalim" alt="hanrocky halim" /></a> </p>
 
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **hanrocky.halim@gmail.com**
 
-<img src="1.gif" align="right" height="200" style="margin-right:20px" >
-
 <h3 align="left">Connect with me:</h3>
+
+<img src="1.gif" align="right" height="160" style="margin-right:20px" >
 
 <p align="left">
 </p>
