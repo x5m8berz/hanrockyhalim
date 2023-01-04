@@ -6,7 +6,7 @@
  
  </div>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=hanrockyhalim&theme=gitdimmed&row=1&column=6" alt="hanrocky halim" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=hanrockyhalim&theme=gitdimmed&row=1&column=6" alt="hanrocky halim" /></p>
 
 
 <img src="1.gif" align="right" height="160" style="margin-right:20px" >
@@ -50,7 +50,7 @@
 <details close="true">
   <summary><b>:gear: &nbsp;Git Statistics</b></summary>  
  <div align="center">
-  ![](https://komarev.com/ghpvc/?username=hanrockyhalim)
+  <img src="https://komarev.com/ghpvc/?username=hanrockyhalim" alt="View count" />
  </div>
  <div align="center">
  <img style="margin-left:20px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanrockyhalim&hide=html&layout=compact&theme=highcontrast" alt="hanrockyhalim" />
