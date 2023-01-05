@@ -11,7 +11,7 @@
 
 <img src="1.gif" align="right" height="160" style="margin-right:20px" >
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **A lof things**
 
 - 📫 How to reach me **hanrocky.halim@gmail.com**
 
