@@ -36,12 +36,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,redux,bootstrap,tailwind,express,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,tailwind,express,mysql,mongodb" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,tensorflow,dart,flutter,cpp,git,vscode,github,ps,figma" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,dart,flutter,cpp,git,github,ps,figma" />
   </a>
 </p>
 
