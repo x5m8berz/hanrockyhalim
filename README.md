@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **A lot of things**
 
-- 📫 How to reach me **hanrockyhalim@gmail.com**
+- 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>
 
