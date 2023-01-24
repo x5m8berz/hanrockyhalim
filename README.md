@@ -63,7 +63,7 @@
 
 
 <!---
-hanrockyhalim/hanrockyhalim is  ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hanrockyhalim/hanrockyhalim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 https://user-images.githubusercontent.com/100605170/210373847-e3d131cc-f4a4-475b-875f-966bb900001a.png
 --->
